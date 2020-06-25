@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: *
+Disallow: /includes/
+Disallow: /data/
+Sitemap: http://www.glybe.nl/cache/sitemap.php
